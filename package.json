@@ -1,5 +1,5 @@
 {
-  "name": "podger-iban",
+  "name": "@polyteknikkojenorkesteri/iban",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -8,10 +8,7 @@
     "test": "mocha -r ts-node/register src/**/*.spec.ts",
     "lint": "tslint --project tslint.json"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://bitbucket.org/polyteknikkojenorkesteri/podger-iban.git"
-  },
+  "repository": "github:polyteknikkojenorkesteri/iban",
   "private": true,
   "dependencies": {},
   "devDependencies": {
