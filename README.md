@@ -1,4 +1,6 @@
-# Podger IBAN
+# IBAN
+
+![.github/workflows/ci.yaml](https://github.com/polyteknikkojenorkesteri/iban/workflows/.github/workflows/ci.yaml/badge.svg)
 
 Validation and formatting utilities for international bank account numbers.
 
