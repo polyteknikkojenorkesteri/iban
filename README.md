@@ -6,7 +6,7 @@ Validation and formatting utilities for international bank account numbers.
 
 ## Development
 
-It works at least on Node.js 10 runtime, and should also work on newer versions of Node.js as well.
+It works at least on Node.js 12 runtime, and should also work on newer versions of Node.js as well.
 
 ### Unit Tests
 
